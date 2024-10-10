@@ -1,4 +1,8 @@
 # React Challenges
+Install dependencies
+```
+npm install
+```
 
 Run the app in the development mode with
 ```
