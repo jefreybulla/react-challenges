@@ -20,7 +20,7 @@ npm install -g serve
 serve -s build
 ```
 
-## Secreat
+## Secrets
 Create an `.env` file to add secrets. For example:
 ```
 REACT_APP_EXCHANGE_RATE_BASE_URL=my-url
