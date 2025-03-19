@@ -19,3 +19,9 @@ To serve build use this static server
 npm install -g serve
 serve -s build
 ```
+
+## Secreat
+Create an `.env` file to add secrets. For example:
+```
+REACT_APP_EXCHANGE_RATE_BASE_URL=my-url
+```
