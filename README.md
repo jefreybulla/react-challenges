@@ -21,7 +21,7 @@ serve -s build
 ```
 
 ## Secrets
-Create an `.env` file to add secrets. For example:
+In the root directory create an `.env` file  to add secrets. For example:
 ```
 REACT_APP_EXCHANGE_RATE_BASE_URL=my-url
 ```
